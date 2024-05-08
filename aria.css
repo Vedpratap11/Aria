@@ -67,11 +67,11 @@
     justify-content: center;
    
 }
-i.fa-brands.fa-facebook-f {
+.head1 i.fa-brands.fa-facebook-f {
     margin-top: 7px;
     font-size: 14px;
 }
-i.fa-brands.fa-twitter {
+.head1 i.fa-brands.fa-twitter {
     margin-top: 7px;
     font-size: 14px;
 }
@@ -573,7 +573,7 @@ i.fa-solid.fa-chart-pie {
 }
 .body62 li::marker
 {
-    color: rgb(34, 181, 117);
+    color: white;
 }
 .body62 a
 {
@@ -824,4 +824,239 @@ i.fa-solid.fa-chart-pie {
     font-weight: 700;
     padding-bottom: 10px;
     padding-top: 10px;
+}
+.body10
+{
+    width: 100%;
+    height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eeeeee;
+}
+.body101
+{
+    width: 1200px;
+    height: 350px;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body1011
+{
+    width: 600px;
+    height: 350px;
+    /* border: 2px solid blue; */
+    color: rgb(72, 70, 70);
+}
+.body1011 h1
+{
+    text-transform: capitalize;
+    padding-bottom: 25px;
+}
+.body1011 h2
+{
+    text-transform: capitalize;
+    padding-top: 35px;
+}
+.body1011 ul
+{
+    list-style: none;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.body1011 li
+{
+    padding-right: 20px;
+}
+.body10111
+{
+    color: rgb(34, 181, 117);
+    text-transform: uppercase;
+    font-size: 14px;
+    /* font-weight: 700; */
+}
+.body1012
+{
+    width: 600px;
+    height: 350px;
+    /* border: 2px solid blue; */
+    padding-left: 80px;
+}
+.b10-3
+{
+    width: 45px;
+    height: 39px;
+    background-image: url("./ariaimages/hexagon-green.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: first baseline;
+    justify-content: center;
+}
+.b10-2 i.fa-solid.fa-location-dot {
+    color: rgb(34, 181, 117);
+    width: 21px;
+    font-size: 14px;
+}
+.b10-2 i.fa-solid.fa-phone-flip {
+    color: rgb(34, 181, 117);
+    width: 21px;
+    font-size: 14px;
+}
+.b10-2 i.fa-solid.fa-envelope {
+    color: rgb(34, 181, 117);
+    width: 21px;
+    font-size: 14px;
+}
+.b10-3 i.fa-brands.fa-facebook-f {
+    color: white;
+    margin-top: 11px;
+}
+.b10-4 a
+{
+    text-decoration: none;
+}
+.b10-3 i.fa-brands.fa-twitter {
+    color: white;
+    margin-top: 11px;
+}
+.b10-3 i.fa-brands.fa-pinterest {
+    color: white;
+    margin-top: 11px;
+}
+.b10-3 i.fa-brands.fa-instagram
+{
+    color: white;
+    margin-top: 11px;
+}
+.b10-3 i.fa-brands.fa-linkedin
+{
+    color: white;
+    margin-top: 11px;
+}
+.b10-3 i.fa-brands.fa-behance
+{
+    color: white;
+    margin-top: 11px;
+}
+.b10-1
+{
+    width: 88%;
+    height: 45px;
+    color: white;
+    background-color: rgb(34, 181, 117);
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.b10-0
+{
+    width: 88%;
+    height: 45px;
+    color: rgb(72, 70, 70);
+    background-color: white;
+    /* text-transform: capitalize; */
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.b10-5
+{
+    width: 88%;
+    height: 100px;
+    color: rgb(72, 70, 70);
+    background-color: white;
+    /* text-transform: capitalize; */
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.body1012 ul
+{
+    list-style: inside square;
+    font-size: 14px;
+}
+.body1012 li::marker
+{
+    color:  white;
+}
+.b10-6 a 
+{
+    text-decoration: none;
+}
+.footer
+{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(10, 61, 119);
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding-top: 100px;
+    margin-bottom: 70px;
+}
+.footer1{
+    width: 1300px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 120px;
+    /* margin-bottom: 100px; */
+}
+.footer2
+{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.f1
+{
+    width: 550px;
+    height: 200px;
+    /* border: 1px solid white; */
+    color: white;
+}
+.f1 h2
+{
+    padding-bottom: 10px;
+}
+.f2
+{
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid white; */
+    color: white;
+}
+.f2 h2
+{
+    padding-bottom: 2px;
+}
+.f2 ul
+{
+    list-style: none;
+    line-height: 1.8;
+}
+.f2 a
+{
+    color: white;
+}
+.footer3
+{
+    text-align: center;
+    color: white;
 }

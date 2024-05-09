@@ -206,7 +206,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 50px 0 0 50px;
+    padding: 0 0 50px 50px;
     /* border: 2px solid; */
 }
 .body21
@@ -252,10 +252,10 @@ i.fa-solid.fa-chart-pie {
 .body3
 {
     width: 100%;
-    height: 1000px;
+    height: 900px;
     background-color: #eeeeee;
     text-align: center;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 .b3-3
 {

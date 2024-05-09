@@ -253,7 +253,7 @@ i.fa-solid.fa-chart-pie {
 {
     width: 100%;
     height: 900px;
-    background-color: #eeeeee;
+    background-color: rgb(249, 246, 246);
     text-align: center;
     padding-top: 100px;
 }
@@ -326,9 +326,11 @@ i.fa-solid.fa-chart-pie {
 }
 .b3-2
 {
+    font-size: 14px;
+    font-weight: bold;
     position: absolute;
     top: 469px;
-    left: 143px;
+    left: 148px;
 }
 .b3-0
 {
@@ -344,16 +346,10 @@ i.fa-solid.fa-chart-pie {
     object-fit: cover;
     border-radius: 10px 10px 0 0;
 }
-
-
-
-
-
-
-
-
-
-
+.b3-1
+{
+    color: rgb(34, 181, 117);
+}
 .body4
 {
     width: 100%;
